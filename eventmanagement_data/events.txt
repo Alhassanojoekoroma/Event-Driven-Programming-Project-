@@ -1,0 +1,3 @@
+1|AI Workshop|15/12/2024|Room 101|Dr. Smith|John Doe - Student,Jane Smith - Staff
+2|Cultural Show|20/12/2024|Main Hall|Prof. Johnson|Alice Brown - Student
+3|Talk about Blockchain|21/04/2025|Limkokwing University|OJOE|
